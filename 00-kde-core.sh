@@ -4,7 +4,7 @@
 sudo pacman -Syu
 
 # Install core packages
-sudo pacman -S --noconfirm --needed ark \
+sudo pacman -S ark \
   breeze-gtk \
   dolphin \
   dolphin-plugins \
