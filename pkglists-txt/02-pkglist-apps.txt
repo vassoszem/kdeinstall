@@ -1,7 +1,6 @@
 darktable
 digikam
 displaycal
-dragon
 gwenview
 kate
 kcalc

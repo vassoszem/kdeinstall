@@ -4,7 +4,6 @@
 sudo pacman -S --noconfirm --needed darktable \
   digikam \
   displaycal \
-  dragon \
   gwenview \
   kate \
   kcalc \

@@ -16,7 +16,6 @@ sudo pacman -S --noconfirm --needed ark \
   kdeplasma-addons \
   kscreen \
   kwallet-pam \
-  nvidia-utils \
   plasma-desktop \
   plasma-firewall \
   plasma-nm \
@@ -27,17 +26,21 @@ sudo pacman -S --noconfirm --needed ark \
   sddm-kcm
 
 # Install utilities
-sudo pacman -S --noconfirm --needed eza \
+sudo pacman -S --noconfirm --needed bash-language-server \
+  eza \
   fastfetch \
   fzf \
   grub-btrfs \
+  inetutils \
   inotify-tools \
+  lazygit \
   libappindicator-gtk3 \
   man-db \
   man-pages \
   markdownpart \
-  markdown \
+  marksman \
   npm \
+  nvidia-utils \
   openssh \
   pacman-contrib \
   ripgrep \
@@ -54,7 +57,6 @@ sudo pacman -S --noconfirm --needed eza \
 sudo pacman -S --noconfirm --needed darktable \
   digikam \
   displaycal \
-  dragon \
   gwenview \
   kate \
   kcalc \
@@ -71,8 +73,7 @@ sudo pacman -S --noconfirm --needed ttf-jetbrains-mono-nerd \
 
 # Install AUR packages
 
-yay -S bibata-cursor-theme-bin \
-  dropbox \
+yay -S dropbox \
   floorp-bin \
   timeshift-autosnap \
   ttf-ms-fonts
