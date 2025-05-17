@@ -16,7 +16,6 @@ sudo pacman -S ark \
   kdeplasma-addons \
   kscreen \
   kwallet-pam \
-  nvidia-utils \
   plasma-desktop \
   plasma-firewall \
   plasma-nm \

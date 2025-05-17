@@ -1,17 +1,21 @@
 #!/bin/bash
 
 # Install utilities
-sudo pacman -S --noconfirm --needed eza \
+sudo pacman -S --noconfirm --needed bash-language-server \
+  eza \
   fastfetch \
   fzf \
   grub-btrfs \
+  inetutils \
   inotify-tools \
+  lazygit \
   libappindicator-gtk3 \
   man-db \
   man-pages \
   markdownpart \
-  markdown \
+  marksman \
   npm \
+  nvidia-utils \
   openssh \
   pacman-contrib \
   ripgrep \

@@ -9,5 +9,5 @@ kcolorchooser
 ktorrent
 libreoffice-fresh
 neovim
-okulat
+okular
 partitionmanager
