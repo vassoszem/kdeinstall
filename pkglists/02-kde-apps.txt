@@ -1,0 +1,13 @@
+darktable
+digikam
+displaycal
+gwenview
+haruna
+kate
+kcalc
+kcolorchooser
+ktorrent
+libreoffice-fresh
+neovim
+okular
+partitionmanager
