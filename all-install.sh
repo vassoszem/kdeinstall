@@ -43,6 +43,7 @@ sudo pacman -S --noconfirm --needed bash-language-server \
   micro \
   npm \
   nvidia-utils \
+  opencl-nvidia \
   openssh \
   pacman-contrib \
   plocate \

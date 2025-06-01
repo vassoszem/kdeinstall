@@ -15,6 +15,7 @@ marksman
 micro
 npm
 nvidia-utils
+opencl-nvidia
 openssh
 pacman-contrib
 plocate
