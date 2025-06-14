@@ -11,6 +11,7 @@ sudo pacman -S --needed bash-language-server \
   inotify-tools \
   lazygit \
   libappindicator-gtk3 \
+  lua-language-server \
   man-db \
   man-pages \
   markdownpart \
